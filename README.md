@@ -11,4 +11,5 @@ The pictures below show the various screens of the app and their functionality.
 ![awardsScreen](https://github.com/omar-cardenas/EmployeeRewards/assets/160799516/146f91a3-f929-44d5-9009-0e6eaf1e1401)
 ![claimSuccess](https://github.com/omar-cardenas/EmployeeRewards/assets/160799516/538ac945-1ddb-4c03-8a80-a11e42283049)
 ![claimFail](https://github.com/omar-cardenas/EmployeeRewards/assets/160799516/947a2b66-4585-4ed6-9dfb-4213a60fe86a)
-![awardOptions](https://github.com/omar-cardenas/EmployeeRewards/assets/160799516/ceefd2be-aafb-4931-ac27-e7033a7bc8ea)
+![awardOptions](https://github.com/omar-cardenas/EmployeeRewards/assets/160799516/5216ba42-5956-404b-886b-be6f32e8f0a7)
+
