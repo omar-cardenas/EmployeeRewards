@@ -1,7 +1,6 @@
 # EmployeeRewards
 An app that allows employees to see all their customer registrations and pick rewards for doing so.
-
-This app was made by using a Java Servlet, JSP's, and MYSQL. It's purpose is to store, update, and retrieve data involving all registrations made for a hotel reward program. 
+This was made using a Java Servlet, JSP's, and MYSQL. It's purpose is to store, update, and retrieve data for a hotel reward program.
 
 The pictures below show the various screens of the app and their functionality. 
 
